@@ -69,7 +69,7 @@
         "Managed website content updates and maintenance tasks."
       ],
       "skills": [
-        "PHP",
+        "Php",
         "MySQL",
         "JavaScript",
         "HTML",
@@ -119,11 +119,6 @@
       "name": "Figma",
       "level": "Expert",
       "keywords": ["Design", "UI"]
-    },
-    {
-      "name": "Gitlab",
-      "level": "Intermediate",
-      "keywords": ["Version Control", "Collaboration", "Source Code"]
     },
     {
       "name": "HTML",
@@ -195,6 +190,11 @@
       "name": "React",
       "level": "Intermediate",
       "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Photoshop",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend"]
     }
   ],
   "languages": [
