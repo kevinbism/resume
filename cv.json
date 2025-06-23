@@ -35,117 +35,83 @@
   },
   "work": [
     {
-      "name": "Tech Startup",
-      "position": "Junior Web Developer",
-      "location_type": "On site",
-      "location": "Auckland, New Zealand",
-      "url": "https://techstartup.com",
-      "startDate": "2024-01-01",
+      "name": "Blastness S.p.A.",
+      "position": "Frontend Developer",
+      "location_type": "Hybrid",
+      "location": "La Spezia, Italy",
+      "url": "https://www.blastness.com/",
+      "startDate": "2020-02-01",
       "endDate": null,
-      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
+      "summary": "Developed custom websites using the company’s CMS. Handled projects from start to launch, followed by continuous improvements focused on speed, responsiveness, and overall web performance.",
       "highlights": ["Improved website performance by optimizing code"],
       "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
-        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
-        "Participated in code reviews and contributed to improving coding standards within the team."
+        " Developed responsive websites using HTML, CSS, and JavaScript.",
+        "Optimized website performance to ensure fast load times.",
+        "Worked with cross-functional teams to deliver projects on time."
       ],
       "achievements": [
-        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
+        " Stayed up-to-date with the latest front-end development trends and best practices."
       ],
-      "skills": ["React", "Tailwind", "GitHub"]
+      "skills": ["React", "GitHub", "Git"]
     },
     {
-      "name": "Innovative Solutions",
-      "position": "Junior Software Developer",
-      "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
-      "url": "https://innovativesolutions.com",
-      "startDate": "2022-06-01",
-      "endDate": "2023-06-01",
-      "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
-      "highlights": [
-        "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
-      ],
+      "name": "Blastness S.p.A.",
+      "position": "Web Developer",
+      "location_type": "On site",
+      "location": "La Spezia, Italy",
+      "url": "https://www.blastness.com/",
+      "startDate": "2017-02-01",
+      "endDate": "2020-01-01",
+      "summary": "Developed complete websites using predefined templates. Managed both pre-release and post-release support for various projects, ensuring consistent performance and client satisfaction.",
       "responsibilities": [
-        "Developed and maintained backend services using Python and Django.",
-        "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
-        "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
+        "Created custom websites using PHP and MySQL.",
+        "Implemented front-end frameworks such as Bootstrap and jQuery to improve user experience.",
+        "Managed website content updates and maintenance tasks."
       ],
-      "achievements": [
-        "Successfully implemented a feature that enhanced user authentication, improving security measures."
-      ],
-      "skills": ["Python", "Django", "SQL", "Git"]
+      "skills": [
+        "PHP",
+        "MySQL",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Bootstrap",
+        "jQuery"
+      ]
     },
     {
-      "name": "Web Agency",
-      "position": "Intern Web Developer",
-      "location_type": "Remote",
-      "location": "Sydney, Australia",
-      "startDate": "2022-06-01",
-      "endDate": "2022-12-01",
-      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
-      "highlights": ["Completed several client projects successfully"],
-      "skills": ["HTML", "CSS"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Local Coding Club",
-      "position": "Volunteer",
-      "url": "https://codingclub.com/",
-      "startDate": "2021-01-01",
-      "endDate": "2022-01-01",
-      "summary": "Helped organize coding workshops and mentored new members.",
-      "highlights": ["Awarded 'Volunteer of the Month'"]
+      "name": "Blastness S.p.A.",
+      "position": "Web Editor",
+      "location_type": "On site",
+      "location": "La Spezia, Italy",
+      "url": "https://www.blastness.com/",
+      "startDate": "2015-10-01",
+      "endDate": "2017-01-01",
+      "summary": "Edited and managed web pages using a proprietary CMS to design hotel websites. Executed marketing campaigns and provided additional advertising services to enhance online visibility and engagement.",
+      "responsibilities": [
+        "Cropped images in Photoshop and optimized them for faster loading times.",
+        "Checked that content was correctly added in all languages.",
+        "Tested links and dynamic forms to ensure they worked properly."
+      ],
+      "skills": ["Photoshop"]
     }
   ],
   "education": [
     {
-      "institution": "State University",
-      "url": "https://stateuniversity.edu",
-      "area": "Computer Science",
+      "institution": "Istituto Tecnico Fossati - Da Passano",
+      "url": "https://www.fossatidapassano.edu.it/",
+      "area": "Technical High School Diploma in Computer Science",
       "studyType": "Bachelor",
-      "startDate": "2018-09-01",
-      "endDate": "2022-05-01",
-      "score": "3.8",
-      "courses": [
-        "CS101 - Introduction to Computer Science",
-        "CS102 - Data Structures"
-      ]
-    },
-    {
-      "institution": "Tech Institute",
-      "url": "https://techinstitute.edu",
-      "area": "Software Engineering",
-      "studyType": "Master",
-      "startDate": "2020-09-01",
-      "endDate": "2022-12-01",
-      "score": "3.9",
-      "courses": [
-        "SE201 - Advanced Software Development",
-        "SE202 - Software Architecture and Design"
-      ]
-    },
-    {
-      "institution": "City College",
-      "url": "https://citycollege.edu",
-      "area": "Information Technology",
-      "studyType": "Associate Degree",
-      "startDate": "2017-01-01",
-      "endDate": "2019-12-01",
-      "score": "3.7",
-      "courses": [
-        "IT101 - Networking Fundamentals",
-        "IT102 - Database Management Systems"
-      ]
+      "startDate": "2009-09-01",
+      "endDate": "2014-06-01",
+      "score": "70"
     }
   ],
   "certificates": [
     {
-      "name": "Full Stack Web Development",
-      "date": "2023-05-01",
-      "issuer": "Online University",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
+      "name": "Responsive Web Design Certification",
+      "date": "2021-11-01",
+      "issuer": "freeCodeCamp",
+      "url": "https://www.freecodecamp.org/certification/kevinbismark/responsive-web-design"
     }
   ],
   "skills": [
